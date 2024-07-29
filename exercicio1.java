@@ -4,9 +4,9 @@ public class exercicio1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-        // Conversor de Temperaturas
-		 double C, K, F, Re, Ra;
-	        C = 2.43;
+                // Conversor de Temperaturas
+		double G, K, F, Re, Ra;
+	        G = 2.43;
 
 	        F = C * 1.8 + 32;
 	        K = C + 273.15;
